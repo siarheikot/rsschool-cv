@@ -1,6 +1,6 @@
 # Siarhei Kot
 
----
+## ![my-photo](https://sergeykot.by/wp-content/uploads/2018/09/SergeyKot.jpg)
 
 ### Contacts
 
