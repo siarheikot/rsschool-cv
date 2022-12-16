@@ -134,7 +134,7 @@ footer a {
 }
 
 .icon-github::before {
-	content: url(/images/github-mark-white.svg);
+	content: url(images/github-mark-white.svg);
 	position: absolute;
 	left: -2px;
 }
